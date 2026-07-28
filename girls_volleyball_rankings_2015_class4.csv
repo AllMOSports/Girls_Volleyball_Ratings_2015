@@ -1,0 +1,105 @@
+School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
+Nixa,2.32,2.06,4.39,1,2,1
+Lafayette (Wildwood),2.11,2.11,4.21,2,1,2
+Francis Howell,2.0,1.96,3.95,4,3,3
+Ozark,1.88,1.93,3.81,6,4,4
+St. Joseph's Academy,1.87,1.85,3.72,7,5,5
+Lee's Summit North,1.89,1.74,3.63,5,7,6
+St. Teresa's Academy,2.02,1.59,3.61,3,13,7
+Cor Jesu Academy,1.73,1.67,3.4,9,9,8
+Eureka,1.57,1.74,3.32,13,6,9
+Glendale,1.56,1.7,3.26,14,8,10
+Park Hill South,1.6,1.64,3.25,11,10,11
+Ursuline Academy,1.73,1.51,3.24,8,14,12
+Blue Springs,1.63,1.6,3.23,10,12,13
+Blue Springs South,1.59,1.61,3.2,12,11,14
+Lee's Summit,1.5,1.46,2.96,15,16,15
+Northwest (Cedar Hill),1.43,1.49,2.92,20,15,16
+Parkway West,1.46,1.44,2.91,17,17,17
+Kickapoo,1.41,1.4,2.82,22,18,18
+Timberland,1.44,1.36,2.8,19,20,19
+Oak Park,1.39,1.4,2.79,23,19,20
+Ft. Zumwalt West,1.47,1.3,2.76,16,22,21
+Staley,1.43,1.31,2.74,21,21,22
+Marquette,1.44,1.3,2.74,18,23,23
+Nerinx Hall,1.34,1.22,2.57,24,25,24
+Kirkwood,1.29,1.27,2.56,28,24,25
+Washington,1.31,1.2,2.51,25,27,26
+Liberty,1.29,1.18,2.47,26,28,27
+Raymore-Peculiar,1.29,1.16,2.45,27,30,28
+Notre Dame de Sion,1.18,1.2,2.38,29,26,29
+Lindbergh,1.16,1.17,2.33,30,29,30
+Webster Groves,1.03,1.13,2.15,36,31,31
+Parkway Central,1.12,1.03,2.14,31,35,32
+Holt,1.07,1.05,2.12,33,33,33
+Francis Howell Central,1.03,1.06,2.09,35,32,34
+Parkway North,1.05,1.03,2.08,34,34,35
+Incarnate Word Academy,1.02,0.99,2.01,37,37,36
+Ft. Zumwalt East,1.1,0.89,1.98,32,43,37
+Farmington,0.99,0.96,1.95,38,38,38
+Carl Junction,0.93,1.02,1.95,41,36,39
+North Kansas City,0.97,0.96,1.93,39,39,40
+Willard,0.93,0.96,1.88,42,40,41
+Mehlville,0.94,0.89,1.83,40,42,42
+Hillsboro,0.92,0.81,1.73,43,46,43
+Republic,0.89,0.84,1.73,44,45,44
+Lee's Summit West,0.82,0.9,1.72,49,41,45
+Ft. Zumwalt North,0.85,0.86,1.71,47,44,46
+Kearney,0.88,0.78,1.65,45,48,47
+Carthage,0.87,0.78,1.64,46,49,48
+Lebanon,0.83,0.8,1.63,48,47,49
+Hannibal,0.79,0.72,1.51,50,52,50
+Fox,0.71,0.72,1.43,52,51,51
+Grain Valley,0.65,0.76,1.42,54,50,52
+Westminster Christian Academy,0.75,0.67,1.41,51,57,53
+Rockwood Summit,0.65,0.71,1.36,55,53,54
+Jackson,0.63,0.71,1.34,56,54,55
+Park Hill,0.62,0.68,1.3,58,56,56
+Seckman,0.59,0.7,1.28,61,55,57
+Platte County,0.66,0.63,1.28,53,59,58
+Jefferson City,0.55,0.66,1.21,63,58,59
+Francis Howell North,0.6,0.58,1.18,59,60,60
+Battle,0.63,0.5,1.13,57,63,61
+Branson,0.59,0.42,1.01,60,66,62
+Belton,0.44,0.56,1.0,66,61,63
+Camdenton,0.42,0.54,0.96,67,62,64
+Pattonville,0.55,0.4,0.95,62,69,65
+Ladue Horton Watkins,0.42,0.49,0.91,68,64,66
+Poplar Bluff,0.4,0.47,0.87,69,65,67
+Ft. Zumwalt South,0.5,0.3,0.8,64,74,68
+Waynesville,0.47,0.32,0.79,65,73,69
+Troy Buchanan,0.38,0.41,0.78,70,68,70
+Pacific,0.34,0.42,0.75,72,67,71
+Hickman,0.38,0.34,0.72,71,71,72
+Visitation Academy,0.3,0.38,0.68,73,70,73
+Winnetonka,0.29,0.23,0.51,74,75,74
+Oakville,0.12,0.34,0.46,81,72,75
+Central (St. Joseph),0.15,0.22,0.38,77,76,76
+Parkway South,0.22,0.12,0.34,75,79,77
+Hazelwood Central,0.15,0.17,0.31,78,77,78
+Hillcrest,0.2,0.02,0.22,76,84,79
+Rock Bridge,0.07,0.15,0.22,86,78,80
+Liberty North,0.14,0.06,0.2,79,81,81
+Central (Springfield),0.11,0.05,0.16,82,82,82
+McDonald County,0.08,0.05,0.12,85,83,83
+Rolla,0.13,-0.01,0.11,80,88,84
+Raytown,0.02,0.08,0.11,87,80,85
+Webb City,0.08,0.01,0.09,84,86,86
+William Chrisman,-0.01,0.01,-0.01,89,85,87
+Joplin,0.09,-0.1,-0.01,83,91,88
+Fort Osage,-0.02,0.0,-0.02,90,87,89
+Ritenour,-0.01,-0.1,-0.11,88,89,90
+Sikeston,-0.07,-0.1,-0.17,91,90,91
+McCluer North,-0.31,-0.39,-0.7,92,94,92
+Gateway,-0.32,-0.38,-0.71,93,93,93
+Central (Cape Girardeau),-0.37,-0.35,-0.72,94,92,94
+Grandview,-0.42,-0.48,-0.9,95,96,95
+Hazelwood West,-0.47,-0.47,-0.94,96,95,96
+Hazelwood East,-0.56,-0.62,-1.18,97,97,97
+McCluer,-0.63,-0.69,-1.32,98,100,98
+Neosho,-0.7,-0.63,-1.33,99,98,99
+West Plains,-0.78,-0.64,-1.42,101,99,100
+Raytown South,-0.73,-0.86,-1.59,100,102,101
+Parkview,-0.94,-0.74,-1.68,102,101,102
+Ruskin,-1.51,-1.33,-2.84,103,103,103
+Riverview Gardens,-1.53,-1.48,-3.01,104,104,104
